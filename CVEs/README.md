@@ -1,3 +1,3 @@
 # CVEs
 
-Patched vulnerabilities that has got one CVE id.
+Here go patched vulnerabilities that have got one CVE id.
